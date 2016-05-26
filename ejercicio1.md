@@ -14,7 +14,7 @@
 
 ##Conexiones
 * Conectese al servidor desde pgAdmin. Abrar la herramienta sql. Adicionalmente conectese al servidor a través de psql.
-* Monitoree las conexiones viendo los registros de la tabla pg_activity
+* Monitoree las conexiones viendo los registros de la tabla pg_stat_activity
 * Termine la conexión asociada a psql utilizando pg_terminate
 * Compruebe que psql pierde la conexión y se conecta nuevamente
 
