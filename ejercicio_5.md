@@ -40,7 +40,7 @@ Ahora examine la tabla Documento y compruebe que restricciones (Constraints pose
 
 Ahora cree la tabla llamada Arista con las siguientes caracteríticas:
 
-* campo id serial, asociado a llave primaria pk_nodo
+* campo id serial, asociado a llave primaria pk_arista
 * campo origen foreign key de la tabla Nodo
 * campo destino foreign key de la tabla Nodo
 * campo data de tipo jsonb
